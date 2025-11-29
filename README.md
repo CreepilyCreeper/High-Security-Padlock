@@ -1,7 +1,7 @@
 # High-Security Padlock Design (EN 12320 Grade 5)
 
 **Project Status:** Completed (Academic Design & Analysis)
-**Tools Used:** SolidWorks, ANSYS (FEA), Geometric Dimensioning & Tolerancing (GD&T)
+**Tools Used:** SolidWorks
 
 ![Main Render](./render.png)
 *(Final assembly render of the modified Bowley-style padlock)*
