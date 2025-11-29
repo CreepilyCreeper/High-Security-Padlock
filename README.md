@@ -5,7 +5,7 @@
 
 ![Main Render](./render.png)
 *(Final assembly render of the modified Bowley-style padlock)*
-![Animation](./Animation%203.3.mp4)
+![Animation](./animation.gif)
 *(Aninmation of padlock mechanism)*
 
 ## Abstract
