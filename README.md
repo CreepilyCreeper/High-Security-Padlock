@@ -3,10 +3,12 @@
 **Project Status:** Completed (Academic Design & Analysis)
 **Tools Used:** SolidWorks
 
-![Main Render](./render.png)
 *(Final assembly render of the modified Bowley-style padlock)*
+![Main Render](./render.png)
+
+*(Animation of padlock mechanism)*
 ![Animation](./animation.gif)
-*(Aninmation of padlock mechanism)*
+
 
 ## Abstract
 This project involves the design and analysis of a high-security padlock engineered to meet **EN 12320 Grade 5** standards. The design replaces conventional brass bodies with **AISI 304 Steel** and incorporates **Hardened Boron Steel** for the shackle (UTS > 1600 MPa). 
