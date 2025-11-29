@@ -34,12 +34,12 @@ The primary innovation is a modified Bowley-style locking mechanism that shields
 ### 1. Shackle Tensile & Torsion Test
 Finite Element Analysis verified the shackle withstands tensile forces exceeding **70 kN** and torsion forces exceeding **1200 Nm**.
 
-![FEA Shackle Tensile](./Validation/FEA-Tensile-Shackle.png) ![FEA Shackle Torsion](./FEA-Torsion.png)
+![FEA Shackle Tensile](./Validation/FEA-Tensile-Shackle.png) ![FEA Shackle Torsion](./Validation/FEA-Torsion.png)
 
 ### 2. Mechanism Stress Analysis
 Calculations on the internal locking pins and Finite ELement Analysis on the lock pin and base plate confirm the lock mechanism's resistance to **10 kN** pulling force and **20 Nm** torque, ensuring the mechanism does not shear under forced entry attempts.
 
-![FEA Plug Tensile](./FEA-Tensile-Plug.png)
+![FEA Plug Tensile](./Validation/FEA-Tensile-Plug.png)
 
 ## ⚙️ Design for Manufacturing (DFM)
 *   **Machining vs. Casting:** Selected CNC machining for the steel body to ensure tighter tolerances (10 microns) required for the shielded keyway mechanism.
