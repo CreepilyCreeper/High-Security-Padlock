@@ -3,11 +3,14 @@
 **Project Status:** Completed (Academic Design & Analysis)
 **Tools Used:** SolidWorks
 
-*(Final assembly render of the modified Bowley-style padlock)*
 ![Main Render](./render.png)
 
-*(Animation of padlock mechanism)*
+*(Final assembly render of the modified Bowley-style padlock)*
+
+
 ![Animation](./animation.gif)
+
+*(Animation of padlock mechanism)*
 
 
 ## Abstract
